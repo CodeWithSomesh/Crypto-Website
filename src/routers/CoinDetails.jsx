@@ -1,7 +1,7 @@
 import {useState, useEffect} from 'react'
 import {useParams} from 'react-router-dom'
 import axios from 'axios'
-import DOMPurify, { sanitize } from 'dompurify'
+import DOMPurify from 'dompurify'
 
 const CoinDetails = () => {
 
