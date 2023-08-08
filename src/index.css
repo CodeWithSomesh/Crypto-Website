@@ -204,7 +204,7 @@ th {
   margin: 1rem 0;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 750px) {
   .container .content, .container .coinDetail-name {
     max-width: 100%;
     margin: 2rem.5rem;
