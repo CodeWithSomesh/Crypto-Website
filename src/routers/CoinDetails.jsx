@@ -21,7 +21,7 @@ const CoinDetails = () => {
 
   return (
     <div className="container">
-      <div className="content">
+      <div className="coinDetail-name">
         <h1>{coinDetails.name}</h1>
       </div>
 
@@ -31,21 +31,24 @@ const CoinDetails = () => {
         </div>
 
         <div className="info">
-          {coinDetails.image ? (
-            <img src={coinDetails.image.small} alt="" />
-          ) : null}
-          <p>{coinDetails.name}</p>
-          {coinDetails.symbol ? (
-            <p>({coinDetails.symbol.toUpperCase()}/USD)</p>
-          ) : null}
-        </div>
+          <div className="coin-heading">
+            {coinDetails.image ? (
+              <img src={coinDetails.image.small} alt="" />
+            ) : null}
+            <p>{coinDetails.name}</p>
+            {coinDetails.symbol ? (
+              <p>({coinDetails.symbol.toUpperCase()}/USD)</p>
+            ) : null}
+          </div>
+        
 
-        <div className="coinDetails-market-price">
-          {coinDetails.market_data?.current_price ? (
-            <h1>
-              {coinDetails.market_data.current_price.usd.toLocaleString()}
-            </h1>
-          ) : null}
+          <div className="coin-market-price">
+            {coinDetails.market_data?.current_price ? (
+              <h1>
+                ${coinDetails.market_data.current_price.usd.toLocaleString()}
+              </h1>
+            ) : null}
+          </div>
         </div>
       </div>
 
