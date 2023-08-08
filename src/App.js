@@ -25,7 +25,7 @@ export default function App () {
       <Navbar />
       <Routes>
         <Route path="/" element={<Coins coins={coins} />} />
-        <Route path='/coins/:id' element={<CoinDetails />}/>
+        <Route path='/coins/:coinID' element={<CoinDetails />}/>
       </Routes>
     </>
 
