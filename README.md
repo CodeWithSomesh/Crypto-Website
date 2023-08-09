@@ -11,8 +11,9 @@ Link: https://coinsearch-react.netlify.app/
 
 <br>
 
-<h3>Built with:</h3>
-» React JS
+<h3>Info:</h3>
+» Built with React JS
+» Fully Responsive
 
 <br>
 <br>
