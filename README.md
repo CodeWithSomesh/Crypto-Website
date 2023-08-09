@@ -7,7 +7,7 @@
   <br>
 
 ## Website Live Demo
-Link: https://coinsearch-react.netlify.app/
+Link: https://crypto-website-react.vercel.app/
 
 <br>
 
