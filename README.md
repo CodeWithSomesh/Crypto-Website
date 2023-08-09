@@ -13,6 +13,7 @@ Link: https://coinsearch-react.netlify.app/
 
 <h3>Info:</h3>
 » Built with React JS
+<br>
 » Fully Responsive
 
 <br>
