@@ -1,4 +1,5 @@
-<div align='center'><img style="width:30%" src='https://github.com/CodeWithSomesh/Crypto-Website/assets/123357802/bdc6d146-80b3-44f9-b28e-3ddc011eb898)'/></div>
+<div align='center'><img style="width:30%" src='https://github.com/CodeWithSomesh/Crypto-Website/assets/123357802/b1a33799-09a5-4073-a9eb-232a171dc4fe'/></div>
+
 
 <h2>About The Project</h2>
 
@@ -22,15 +23,17 @@ Link: https://crypto-website-react.vercel.app/
 <h2>Project Preview 📸</h2>
 <h3 align='center'>Home Page 🏡</h3>
 <div align='center'>
-<img src='https://github.com/CodeWithSomesh/Crypto-Website/assets/123357802/29d25d81-6af2-45ba-b82a-77a0f8933153'/>
+  <img src='https://github.com/CodeWithSomesh/Crypto-Website/assets/123357802/66e1317e-eb6d-4610-ad67-b395ad777344'/>
 </div>
+
 
 <h3 align='center'>Coin Page 🏡</h3>
 <div align='center'>
-<img src='https://github.com/CodeWithSomesh/Crypto-Website/assets/123357802/502388ff-3b04-45f9-8073-0faf11fc24a5'/>
+  <img src='https://github.com/CodeWithSomesh/Crypto-Website/assets/123357802/e908a020-6d32-4423-ae53-8844e05a1df2'/>
 </div>
 
-</div>
+
+
 
 <br>
 <br>
