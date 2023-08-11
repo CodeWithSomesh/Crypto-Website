@@ -41,8 +41,4 @@ Link: https://crypto-website-react.vercel.app/
 #### Note:
 > Strengthened my understanding of React Hooks, such as useState and useEffect
 > 
-> Improved my understanding of React Router DOM
-> 
-> Used Axios Json Package to fetch API
-> 
-> Getting better at using APIs 
+b
