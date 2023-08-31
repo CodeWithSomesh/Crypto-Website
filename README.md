@@ -7,7 +7,7 @@
 
   <br>
 
-## Website Live Demo
+## Website Live Demo 🌐
 Link: https://crypto-website-react.vercel.app/
 
 <br>
