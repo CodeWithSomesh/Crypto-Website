@@ -1,7 +1,7 @@
 <div align='center'><img style="width:30%" src='https://github.com/CodeWithSomesh/Crypto-Website/assets/123357802/b1a33799-09a5-4073-a9eb-232a171dc4fe'/></div>
 
 
-<h2>About The Project</h2>
+<h2>About The Project 📖</h2>
 
   <p>The <b>CoinSearch</b> website is an online platform that allows users to explore leading cryptocurrency insights with real-time details of top market performers.</p>
 
